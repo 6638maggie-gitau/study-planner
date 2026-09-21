@@ -1,6 +1,6 @@
 # 📚 Study Planner
 
-A simple and responsive study planner built with React to help students organize their academic tasks, track deadlines, and stay on top of their studies.
+A simple and responsive study planner built with React to help students organize and their academic tasks, track deadlines, and stay on top of their studies.
 
 ## ✨ Features
 
